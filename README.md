@@ -1,4 +1,4 @@
 # lyon
 Kaggle Challenge Lyon
 
-Link to Kaggle page: <a href="https://www.kaggle.com/c/lyon-train-occupancy"> Train Occupancy Challenge </a>
+Link to Kaggle page: <a href="https://www.kaggle.com/t/0b9140cabf62423ca16148e330c94df2"> Train Occupancy Challenge </a>
